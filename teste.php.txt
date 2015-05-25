@@ -1,1 +1,1 @@
-<? echo "Teste.php ?>
+<? echo "Teste.php" ?>
