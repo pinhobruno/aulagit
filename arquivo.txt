@@ -1,1 +1,2 @@
-Olá mundo!!! alterado!
+Olá mundo!!! alterada!
+Versão para o release 0.1.1
